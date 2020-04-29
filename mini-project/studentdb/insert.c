@@ -29,4 +29,5 @@ void insert_data(){
 int main(void){
     insert_data();
     printf("%s,%s,%d,%s,%f,%d,%d,%c", record.name,record.email,record.roll,record.dept,record.cgpa,record.year,record.batch,record.fee);
+    return 0;
 }
