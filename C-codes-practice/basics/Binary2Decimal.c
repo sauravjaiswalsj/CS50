@@ -16,8 +16,4 @@ int main(void){
     printf("Enter the Binary Value:  ");
     scanf("%ld",&n);
     printf("Binary to Decimal Conversion is:  %ld",todecimal(n));
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 176b6d8e585fd6e4a820a65ea4aaa20fc3d2f93b
